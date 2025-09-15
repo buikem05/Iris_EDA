@@ -2,6 +2,8 @@
 Week 1 ML project – EDA, visualization, and classification of the Iris dataset using Python, pandas, seaborn, and scikit-learn.
 
 # 🌱 Week 1 Project: Iris Dataset Classification
+*A beginner-friendly ML project performing EDA and classification on the Iris dataset.*
+
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
